@@ -1,6 +1,6 @@
 <?php
 
-// comment out the following two lines when deployed to production
+// 実運用サーバに配備するときは次の2行をコメント・アウトする
 defined('YII_DEBUG') or define('YII_DEBUG', true);
 defined('YII_ENV') or define('YII_ENV', 'dev');
 
